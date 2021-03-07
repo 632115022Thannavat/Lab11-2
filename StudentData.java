@@ -1,4 +1,5 @@
 public class StudentData{
+    //Thannavat 632115022
     public static void main(String[] args) {
         Student std01 = new Student("Mark",18,4.00);
         Student std02 = new Student("Jane",18,2.20);

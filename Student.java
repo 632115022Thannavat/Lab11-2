@@ -1,3 +1,4 @@
+//Thannavat 632115022
 public class Student {
    String name;
    double num1;
